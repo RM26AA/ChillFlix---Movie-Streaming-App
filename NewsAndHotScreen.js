@@ -3,7 +3,7 @@ import { View, Text, TouchableOpacity, FlatList, StyleSheet, Image, Alert } from
 import axios from 'axios'; // Import axios for making API requests
 import { Ionicons } from '@expo/vector-icons'; // For icons
 
-const API_KEY = '279d55798ba24d36ad0f22f82d9dac49'; // Replace with your actual API key
+const API_KEY = 'ADD YOUR KEY'; // Replace with your actual API key
 const BASE_URL = 'https://api.themoviedb.org/3';
 
 const NewsAndHotScreen = ({ navigation }) => {
