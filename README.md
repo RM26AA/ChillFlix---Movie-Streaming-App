@@ -1,11 +1,37 @@
-# Sample Snack app
+# ChillFlix - Movie Streaming App
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+**ChillFlix** is a movie streaming app inspired by popular platforms like Netflix, offering a similar user experience with a unique twist. The app allows users to manage profiles, discover movies, and customize their viewing experience. It includes features like offline viewing, download management, and adjustable settings.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## Key Features
+- **User Profiles**: Create and manage multiple profiles with personalized settings.
+- **Movie Discovery**: Browse through various movie categories like popular, action, comedy, and more.
+- **Search Functionality**: Easily search for your favorite movies and TV shows.
+- **Offline Viewing**: Download movies and shows for offline viewing, with storage and video quality management.
+- **Customizable Settings**: Adjust data usage, video quality, and notification preferences.
+- **Storage Management**: View and manage your device storage for downloaded content.
+- **About & Legal Links**: Access privacy policy, account settings, and other legal links.
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+## Technologies Used
+- **React Native**: For building the mobile application.
+- **React Navigation**: For screen navigation and routing.
+- **Ionicons**: For icons used in the app.
+- **Axios**: For API requests (if used for fetching movie data).
+- **Expo**: For easy app development and deployment.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+## Setup Instructions
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+### Prerequisites
+- Install **Node.js** and **npm** (Node Package Manager) on your system.
+- Install **Expo CLI** globally:  
+  ```bash
+  npm install -g expo-cli
+  
+## Contributing
+If you would like to contribute to this project, feel free to fork the repository and create a pull request. Any improvements or bug fixes are welcome!
+
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgements
+- Inspired by Netflix and other streaming platforms.
+- Thanks to React Native, Expo, and all contributors to the open-source community.
